@@ -1,2 +1,2 @@
-Evinchuk Ivan 
-Loginov Daniil
+Евинчук Иван
+Логинов Чухан
